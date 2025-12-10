@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. student in Electrical Engineering at KAIST, advised by Professor Chang D. Yoo. My research focuses on reinforcement learning (RL), generative modeling, and robotics. I aim to develop principled learning algorithms that enhance the decision-making accuracy, controllability, and robustness of autonomous agents. 
+I am a Ph.D. student in Electrical Engineering at KAIST, advised by Professor  Prof. [Chang D. Yoo](http://sanctusfactory.com/family.php). My research focuses on reinforcement learning (RL), generative modeling, and robotics. I aim to develop principled learning algorithms that enhance the decision-making accuracy, controllability, and robustness of autonomous agents. 
 
 My recent work centers on diffusion and flow-matching models for policy learning. Broadly, I seek to integrate generative models with robot learning to enable agents to understand complex environments and interact with them safely, reliably, and adaptively.
 
@@ -30,15 +30,12 @@ My recent work centers on diffusion and flow-matching models for policy learning
 # 🏫 Educations
 
 - 2020 - Present: __Ph.D.__ Electrical Engineering (KAIST, Korea)
-&emsp;&emsp;&emsp;Advisor: Prof. [Chang D. Yoo](http://sanctusfactory.com/family.php)
 &emsp;&emsp;&emsp;GPA: 3.79/4.3
 
 - 2018 - 2020: __M.S.__ Electrical Engineering (KAIST, Korea)
-&emsp;&emsp;&emsp;Advisor: Prof. [Chang D. Yoo](http://sanctusfactory.com/family.php)
 &emsp;&emsp;&emsp;GPA: 3.66/4.3
 
 - 2010 - 2015: __B.S.__ Electrical Engineering (HCMUT, Vietnam)
-&emsp;&emsp;&emsp;Advisor: Ph.D. Nguyen Vinh Hao
 &emsp;&emsp;&emsp;GPA: 8.34/10
 
 # 🔥 News
@@ -138,7 +135,7 @@ IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021
 - 2020 Spring EE331: Introduction to Machine Learning 
 
 **Lab Leader**
-- 2/2022-2/2024 UAIM Laboratory leader
+- 2/2022-2/2024 UAIM Laboratory Leader
 
 **Others**
 - 2024 - 2025 Member of the Korea Information Science Society 
