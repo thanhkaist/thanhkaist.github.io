@@ -19,15 +19,15 @@ redirect_from:
 
 I am a Ph.D. student in Electrical Engineering at KAIST, advised by Professor Chang D. Yoo. My research focuses on reinforcement learning (RL), generative modeling, and robotics. I aim to develop principled learning algorithms that enhance the decision-making accuracy, controllability, and robustness of autonomous agents. 
 
-My recent work centers on diffusion and flow-matching models for policy learning, preference-based reinforcement learning, and multimodal vision–language–action models. Broadly, I seek to integrate generative models with robot learning to enable agents to understand complex environments and interact with them safely, reliably, and adaptively.
+My recent work centers on diffusion and flow-matching models for policy learning. Broadly, I seek to integrate generative models with robot learning to enable agents to understand complex environments and interact with them safely, reliably, and adaptively.
 
 # 📌 Research Interests
 
-- Reinforcement Learning 
-- Deep Generative modeling
-- Robotics Control Algorithms  
+- Reinforcement Learning
+- Deep Generative Modeling
+- Robotic Control Algorithms  
 
-# 🏫 Education
+# 🏫 Educations
 
 - 2020 - Present: __Ph.D.__ Electrical Engineering (KAIST, Korea)
 &emsp;&emsp;&emsp;Advisor: Prof. [Chang D. Yoo](http://sanctusfactory.com/family.php)
@@ -38,14 +38,14 @@ My recent work centers on diffusion and flow-matching models for policy learning
 &emsp;&emsp;&emsp;GPA: 3.66/4.3
 
 - 2010 - 2015: __B.S.__ Electrical Engineering (HCMUT, Vietnam)
-&emsp;&emsp;&emsp;Advisor: __Ph.D.__ Nguyen Vinh Hao
+&emsp;&emsp;&emsp;Advisor: Ph.D. Nguyen Vinh Hao
 &emsp;&emsp;&emsp;GPA: 8.34/10
 
 # 🔥 News
-- *2024.10*: &nbsp;🎉🎉 One paper accepted to IROS 2024 
-- *2022.02*: &nbsp;🎉🎉  One paper accepted to IEEE Access
-# 📝 Publications 
+- *2024.06*: &nbsp;🎉🎉 One paper accepted to IROS 2024 
+- *2024.02*: &nbsp;🎉🎉  One paper accepted to IEEE Access
 
+# 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div class="badge">IEEE Access 2024</div><img src='images/pp_ieeeaccess2024.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
