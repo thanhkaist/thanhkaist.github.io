@@ -88,14 +88,14 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024
 
 [**C3**] [**DimCL: Dimensional Contrastive Learning for Improving Self-Supervised Learning**]()
 
-<span style="color:royalblue">**Xuan Thanh Nguyen* **</span>, Trung X. Pham*, Chaoning Zhang, Tung M. Luu, Thang Vu, Chang D. Yoo
+<span style="color:royalblue"><b>Xuan Thanh Nguyen&#42;</b></span>, Trung X. Pham&#42;, Chaoning Zhang, Tung M. Luu, Thang Vu, Chang D. Yoo
 
 IEEE Access, 2023
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div class="badge">ICASSP 2021</div><img src='images/pp_ieeeaccess2023.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div class="badge">ICASSP 2021</div><img src='images/pp_icassp2021.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 [**C3**] [**Robust MAML: Prioritization task buffer with adaptive learning process for model-agnostic meta-learning**]()
@@ -112,7 +112,7 @@ IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP
 
 [**C3**] [**Sample-efficient reinforcement learning representation learning with curiosity contrastive forward dynamics model**]()
 
-<span style="color:royalblue">**Xuan Thanh Nguyen* **</span>, Tung M. Luu*, Thang Vu, Chang D. Yoo
+<span style="color:royalblue"><b>Xuan Thanh Nguyen&#42;</b></span>, Tung M. Luu&#42;, Thang Vu, Chang D. Yoo
 
 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021
 </div>
