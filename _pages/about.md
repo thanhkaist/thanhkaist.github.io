@@ -92,7 +92,7 @@ IEEE Access, 2023
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div class="badge">IEEE Access 2022</div><img src='images/pp_ieeeaccess2022lad.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div class="badge">IEEE Access 2022</div><img src='images/pp_ieeeaccess2022lad.jpg' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 [**J2**] [**Lad: A hybrid deep learning system for benign paroxysmal positional vertigo disorders diagnostic**]()
