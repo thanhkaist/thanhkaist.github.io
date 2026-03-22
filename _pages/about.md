@@ -39,17 +39,30 @@ My recent work centers on diffusion and flow-matching models for policy learning
 &emsp;&emsp;&emsp;GPA: 8.34/10
 
 # 🔥 News
+- *2026.01*: &nbsp;🎉🎉 One paper accepted to ICLR 2026 
 - *2024.06*: &nbsp;🎉🎉 One paper accepted to IROS 2024 
 - *2024.02*: &nbsp;🎉🎉  One paper accepted to IEEE Access 2024
 
 # 📝 Publications 
+
+
+<div class='paper-box'><div class='paper-box-image'><div class="badge">ICLR 2026</div><img src='images/pp_ICLR2026.PNG' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[**C11**] [**One-Step Flow Q-Learning: Addressing the Diffusion Policy Bottleneck in Offline Reinforcement Learning**]()
+
+<span style="color:royalblue">**Thanh Nguyen** </span>,  Chang D. Yoo.
+
+The International Conference on Learning Representations (ICLR), 2026
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div class="badge">IEEE Access 2024</div><img src='images/pp_ieeeaccess2024.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 [**J4**] [**Uncertainty-Aware Rank-One MIMO Q Network Framework for Accelerated Offline Reinforcement Learning**]()
 
-<span style="color:royalblue">**Xuan Thanh Nguyen** </span>, Tung M. Luu, Tri Ton, Sungwoong Kim, Chang D. Yoo
+<span style="color:royalblue">**Thanh Nguyen** </span>, Tung M. Luu, Tri Ton, Sungwoong Kim, Chang D. Yoo
 
 IEEE Access, 2024
 </div>
@@ -59,9 +72,9 @@ IEEE Access, 2024
 <div class='paper-box'><div class='paper-box-image'><div class="badge">IROS 2024</div><img src='images/pp_iros2024.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[**C7**] [**Mitigating Adversarial Perturbations for Deep Reinforcement Learning via Vector Quantization**]()
+[**C10**] [**Mitigating Adversarial Perturbations for Deep Reinforcement Learning via Vector Quantization**]()
 
-Tung M. Luu, <span style="color:royalblue">**Xuan Thanh Nguyen** </span>, Tee Joshua Tian Jin, Sungwoong Kim, Chang D. Yoo.
+Tung M. Luu, <span style="color:royalblue">**Thanh Nguyen** </span>, Tee Joshua Tian Jin, Sungwoong Kim, Chang D. Yoo.
 
 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024
 </div>
@@ -72,9 +85,9 @@ IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024
 <div class='paper-box'><div class='paper-box-image'><div class="badge">TPAMI 2024</div><img src='images/pp_tpami2024.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[**C6**] [**Scalable SoftGroup for 3D Instance Segmentation on Point Clouds**]()
+[**C9**] [**Scalable SoftGroup for 3D Instance Segmentation on Point Clouds**]()
 
-Thang Vu, Kookhoi Kim, <span style="color:royalblue">**Xuan Thanh Nguyen** </span>, Tung M. Luu, Junyeong Kim, Chang D. Yoo
+Thang Vu, Kookhoi Kim, <span style="color:royalblue">**Thanh Nguyen** </span>, Tung M. Luu, Junyeong Kim, Chang D. Yoo
 
 IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024
 </div>
@@ -85,7 +98,7 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024
 
 [**J3**] [**DimCL: Dimensional Contrastive Learning for Improving Self-Supervised Learning**]()
 
-<span style="color:royalblue"><b>Xuan Thanh Nguyen&#42;</b></span>, Trung X. Pham&#42;, Chaoning Zhang, Tung M. Luu, Thang Vu, Chang D. Yoo
+<span style="color:royalblue"><b>Thanh Nguyen&#42;</b></span>, Trung X. Pham&#42;, Chaoning Zhang, Tung M. Luu, Thang Vu, Chang D. Yoo
 
 IEEE Access, 2023
 </div>
@@ -97,7 +110,7 @@ IEEE Access, 2023
 
 [**J2**] [**Lad: A hybrid deep learning system for benign paroxysmal positional vertigo disorders diagnostic**]()
 
-Trung X. Pham*, Jin Woong Choi*, Rusty John Lloyd Mina, <span style="color:royalblue"><b>Xuan Thanh Nguyen&#42;</b></span>, Sultan Rizky Madjid, Chang D Yoo
+Trung X. Pham*, Jin Woong Choi*, Rusty John Lloyd Mina, <span style="color:royalblue"><b>XThanh Nguyen&#42;</b></span>, Sultan Rizky Madjid, Chang D Yoo
 
 IEEE Access, 2022
 </div>
@@ -107,9 +120,9 @@ IEEE Access, 2022
 <div class='paper-box'><div class='paper-box-image'><div class="badge">CVPR 2022</div><img src='images/pp_cvpr2022.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[**C5**] [**SoftGroup for 3D Instance Segmentation on Point Clouds**]()
+[**C8**] [**SoftGroup for 3D Instance Segmentation on Point Clouds**]()
 
-Thang Vu, Kookhoi Kim, Tung M. Luu, <span style="color:royalblue">**Xuan Thanh Nguyen** </span>, Chang D. Yoo
+Thang Vu, Kookhoi Kim, Tung M. Luu, <span style="color:royalblue">**Thanh Nguyen** </span>, Chang D. Yoo
 
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022
 </div>
@@ -119,9 +132,9 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022
 <div class='paper-box'><div class='paper-box-image'><div class="badge">MDPI Sensors 2022</div><img src='images/pp_sensor2022.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[**C4**] [**Visual Pretraining via Contrastive Predictive Model for Pixel-Based Reinforcement Learning**]()
+[**C7**] [**Visual Pretraining via Contrastive Predictive Model for Pixel-Based Reinforcement Learning**]()
 
-Tung M. Luu, Thang Vu, <span style="color:royalblue">**Xuan Thanh Nguyen** </span>, Chang D. Yoo
+Tung M. Luu, Thang Vu, <span style="color:royalblue">**Thanh Nguyen** </span>, Chang D. Yoo
 
 MDPI Sensors, 2022
 </div>
@@ -133,7 +146,7 @@ MDPI Sensors, 2022
 
 [**J1**] [**Utilizing Skipped Frames in Action Repeats for Improving Sample Efficiency in Reinforcement Learning**]()
 
-Tung M. Luu, <span style="color:royalblue">**Xuan Thanh Nguyen** </span>, Thang Vu, Chang D. Yoo
+Tung M. Luu, <span style="color:royalblue">**Thanh Nguyen** </span>, Thang Vu, Chang D. Yoo
 
 IEEE Access, 2022
 </div>
@@ -145,9 +158,9 @@ IEEE Access, 2022
 <div class='paper-box'><div class='paper-box-image'><div class="badge">ICASSP 2021</div><img src='images/pp_icassp2021.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[**C3**] [**Robust MAML: Prioritization task buffer with adaptive learning process for model-agnostic meta-learning**]()
+[**C6**] [**Robust MAML: Prioritization task buffer with adaptive learning process for model-agnostic meta-learning**]()
 
-<span style="color:royalblue">**Xuan Thanh Nguyen** </span>, Tung M. Luu, Trung X. Pham, Sanzhar Rakhimkul, Chang D. Yoo
+<span style="color:royalblue">**Thanh Nguyen** </span>, Tung M. Luu, Trung X. Pham, Sanzhar Rakhimkul, Chang D. Yoo
 
 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2021
 </div>
@@ -157,9 +170,9 @@ IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP
 <div class='paper-box'><div class='paper-box-image'><div class="badge">IROS 2021</div><img src='images/pp_iros2021.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[**C2**] [**Sample-efficient reinforcement learning representation learning with curiosity contrastive forward dynamics model**]()
+[**C5**] [**Sample-efficient reinforcement learning representation learning with curiosity contrastive forward dynamics model**]()
 
-<span style="color:royalblue"><b>Xuan Thanh Nguyen&#42;</b></span>, Tung M. Luu&#42;, Thang Vu, Chang D. Yoo
+<span style="color:royalblue"><b>Thanh Nguyen&#42;</b></span>, Tung M. Luu&#42;, Thang Vu, Chang D. Yoo
 
 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021
 </div>
@@ -169,19 +182,52 @@ IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021
 <div class='paper-box'><div class='paper-box-image'><div class="badge">ICIP 2021</div><img src='images/pp_icip2021.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[**C1**] [**SphereRPN: Learning Spheres for High-Quality Region Proposals on 3D Point Clouds Object Detection**]()
+[**C4**] [**SphereRPN: Learning Spheres for High-Quality Region Proposals on 3D Point Clouds Object Detection**]()
 
-Thang Vu, Kookhoi Kim, Haeyong Kang, <span style="color:royalblue">**Xuan Thanh Nguyen**</span>, Tung M. Luu, Chang D. Yoo
+Thang Vu, Kookhoi Kim, Haeyong Kang, <span style="color:royalblue">**Thanh Nguyen**</span>, Tung M. Luu, Chang D. Yoo
 
 IEEE International Conference on Image Processing (ICIP), 2021
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div class="badge">Theieie 2021</div><img src='images/pp_IEIE2021.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
 
+[**C3**] [**A pre-training framework for learning feature representation in visual observation reinforcement learning**]()
+
+<span style="color:royalblue">**Thanh Nguyen**</span>, Tung M. Luu, Thang Vu, Chang D. Yoo
+
+The Institute of Electronics and Information Engineers Conference  (Theieie), 2021
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div class="badge">KAIA 2020</div><img src='images/pp_KAIA2020.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[**C2**] [**A survey on meta-learning**]()
+
+<span style="color:royalblue">**Thanh Nguyen**</span>, Chang D. Yoo
+
+The Korean Artificial Intelligence Society 2020 Summer and Autumn Conference  (KAIA), 2020
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div class="badge">KAIA 2019</div><img src='images/pp_KAIA2019.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[**C1**] [**GDCA: GAN-based single image super resolution with Dual discriminators and Channel Attention**]()
+
+<span style="color:royalblue">**Thanh Nguyen**</span>, Hieu Hoang, Chang D. Yoo
+
+Proceedings of the Korean Artificial Intelligence Society 2019 Summer and Autumn Conference  (KAIA), 2019
+</div>
+</div>
 
 
 # 🎏 Patent
-
 - Computing apparatus and method for implementing end-to-end deep learning framework for sample-efficient image-based reinforcement learning, KR-10-2022-0173811 (2022.12.13)
 
 
