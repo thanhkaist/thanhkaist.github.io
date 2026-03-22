@@ -110,7 +110,7 @@ IEEE Access, 2023
 
 [**J2**] [**Lad: A hybrid deep learning system for benign paroxysmal positional vertigo disorders diagnostic**]()
 
-Trung X. Pham*, Jin Woong Choi*, Rusty John Lloyd Mina, <span style="color:royalblue"><b>XThanh Nguyen&#42;</b></span>, Sultan Rizky Madjid, Chang D Yoo
+Trung X. Pham*, Jin Woong Choi*, Rusty John Lloyd Mina, <span style="color:royalblue"><b>Thanh Nguyen</b></span>, Sultan Rizky Madjid, Chang D Yoo
 
 IEEE Access, 2022
 </div>
@@ -222,9 +222,12 @@ The Korean Artificial Intelligence Society 2020 Summer and Autumn Conference  (K
 
 <span style="color:royalblue">**Thanh Nguyen**</span>, Hieu Hoang, Chang D. Yoo
 
-Proceedings of the Korean Artificial Intelligence Society 2019 Summer and Autumn Conference  (KAIA), 2019
+The Korean Artificial Intelligence Society 2019 Summer and Autumn Conference  (KAIA), 2019
 </div>
 </div>
+
+
+
 
 
 # 🎏 Patent
