@@ -190,7 +190,7 @@ IEEE International Conference on Image Processing (ICIP), 2021
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div class="badge">Theieie 2021</div><img src='images/pp_IEIE2021.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div class="badge">Theieie 2021</div><img src='images/pp_IEIE2021.PNG' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 [**C3**] [**A pre-training framework for learning feature representation in visual observation reinforcement learning**]()
@@ -202,7 +202,7 @@ The Institute of Electronics and Information Engineers Conference  (Theieie), 20
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div class="badge">KAIA 2020</div><img src='images/pp_KAIA2020.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div class="badge">KAIA 2020</div><img src='images/pp_KAIA2020.PNG' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 [**C2**] [**A survey on meta-learning**]()
@@ -215,7 +215,7 @@ The Korean Artificial Intelligence Society 2020 Summer and Autumn Conference  (K
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div class="badge">KAIA 2019</div><img src='images/pp_KAIA2019.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div class="badge">KAIA 2019</div><img src='images/pp_KAIA2019.PNG' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 [**C1**] [**GDCA: GAN-based single image super resolution with Dual discriminators and Channel Attention**]()
