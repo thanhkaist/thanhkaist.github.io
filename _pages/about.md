@@ -39,12 +39,23 @@ My recent work centers on diffusion and flow-matching models for policy learning
 &emsp;&emsp;&emsp;GPA: 8.34/10
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉🎉 One paper accepted to ICML 2026
 - *2026.01*: &nbsp;🎉🎉 One paper accepted to ICLR 2026 
 - *2024.06*: &nbsp;🎉🎉 One paper accepted to IROS 2024 
 - *2024.02*: &nbsp;🎉🎉  One paper accepted to IEEE Access 2024
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div class="badge">ICML 2026</div><img src='images/pp_ICML2026.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[**C12**] [**Fast and Highly Expressive Policy Learning for Offline Reinforcement Learning via Bootstrapped Flow Q-Learning**]()
+
+<span style="color:royalblue">**Thanh Nguyen** </span>, Tri Ton, Hongbin Choe, Tung M. Luu, Chang D. Yoo.
+
+International Conference on Machine Learning (ICML), 2026
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div class="badge">ICLR 2026</div><img src='images/pp_ICLR2026.PNG' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
