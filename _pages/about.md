@@ -254,6 +254,8 @@ The Korean Artificial Intelligence Society 2019 Summer and Autumn Conference  (K
 
 **Teaching assistant**
 - 2024 Fall EE331: Introduction to Machine Learning
+- Seongnam - KAIST Next Generation ICT Research Center Reinforcement Learning Course: 2024 Fall
+- Seongnam - KAIST Next Generation ICT Research Center EE Co-op+ Joint Research Program: 2022 Fall, 2023 Spring
 - 2021 Fall EE531: Statistical Learning Theory 
 - 2020 Spring EE331: Introduction to Machine Learning 
 
@@ -263,6 +265,6 @@ The Korean Artificial Intelligence Society 2019 Summer and Autumn Conference  (K
 **Others**
 - 2024 - 2025 Member of the Korea Information Science Society 
 - 2022 - Now Member of the Institute of Electrical and Electronics Engineers (IEEE)
-- 2020 - Now Reviewer of ICLR, ICML, AAAI, IROS, ICASSP ...
+- 2020 - Now Reviewer of  ICML, ICLR, NeurIPS, AAAI, IROS, ICASSP.
 
 
