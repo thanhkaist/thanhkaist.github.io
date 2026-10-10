@@ -39,13 +39,25 @@ My recent work centers on diffusion and flow-matching models for policy learning
 &emsp;&emsp;&emsp;GPA: 8.34/10
 
 # 🔥 News
+- *2026.09*: &nbsp;🎉🎉 One paper accepted to CORL 2026
 - *2026.06*: &nbsp;🎉🎉 One paper accepted to IROS 2026
 - *2026.05*: &nbsp;🎉🎉 One paper accepted to ICML 2026
 - *2026.01*: &nbsp;🎉🎉 One paper accepted to ICLR 2026 
-- *2024.06*: &nbsp;🎉🎉 One paper accepted to IROS 2024 
-- *2024.02*: &nbsp;🎉🎉  One paper accepted to IEEE Access 2024
+
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div class="badge">CORL 2026</div><img src='images/pp_corl2026.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[**C13**] [**Progress-Guided Preference Generation for Aligning Generative Control Policies**]()
+
+Tung M. Luu, Tri Ton, Minh Duc Nguyen, <span style="color:royalblue">**Thanh Nguyen** </span>, Nguyen Gia Binh, Quang Tan Nguyen, Vu N. Duong, Daniel Sonntag, Duy Minh Ho Nguyen, Vien Anh Ngo, Chang D. Yoo
+
+Conference on Robot Learning (CoRL), 2026
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div class="badge">IROS 2026</div><img src='images/pp_IROS2026.PNG' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
