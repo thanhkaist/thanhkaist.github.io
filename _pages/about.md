@@ -40,6 +40,7 @@ My recent work centers on diffusion and flow-matching models for policy learning
 
 # 🔥 News
 - *2026.09*: &nbsp;🎉🎉 One paper accepted to CORL 2026
+- *2026.08*: &nbsp;🎉🎉 One paper accepted to IEEE ACCESS 2026
 - *2026.06*: &nbsp;🎉🎉 One paper accepted to IROS 2026
 - *2026.05*: &nbsp;🎉🎉 One paper accepted to ICML 2026
 - *2026.01*: &nbsp;🎉🎉 One paper accepted to ICLR 2026 
@@ -58,6 +59,16 @@ Conference on Robot Learning (CoRL), 2026
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div class="badge">IEEE ACCESS 2026</div><img src='images/pp_ieeeaccess2026.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[**J5**] [**Metric-Driven Reinforcement Learning for Object Hallucination Reduction in LVLM-Based Image Captioning**]()
+
+<span style="color:royalblue">**Thanh Nguyen** </span>,  Hee Suk Yoon, Tung Minh Luu, Eunseop Yoon, Chang D. Yoo
+
+IEEE ACCESS, 2026
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div class="badge">IROS 2026</div><img src='images/pp_IROS2026.PNG' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
